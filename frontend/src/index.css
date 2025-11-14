@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+/* Global styles can go here. Avoid using @apply at the top-level selector to
+   prevent PostCSS "unknown utility" errors for some Tailwind/PostCSS setups. */
+
+/* your custom utilities / base overrides */
+:root {
+  /* Nīṭi Śāṭikā Monochrome Theme */
+  --bg: #FFFFFF;   /* Background / white space */
+  --brand: #000000; /* Core brand black */
+  --muted: #555555; /* Light neutral text or subtle accents */
+}
+
+/* example small helper - put custom component utilities in the components layer */
+/* simple .btn fallback without @apply to avoid @apply resolution issues */
+.btn {
+  display: inline-block;
+  padding: 0.5rem 1rem; /* py-2 px-4 */
+  border-radius: 0.5rem; /* rounded-lg */
+  font-weight: 600; /* font-semibold */
+}

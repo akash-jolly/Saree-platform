@@ -1,0 +1,286 @@
+{
+  "sarees": [
+    {
+      "id": 1,
+      "name": "Traditional Kasavu Saree with Golden Zari",
+      "image": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?w=800&h=1000&fit=crop",
+      "images": [
+        "https://images.unsplash.com/photo-1610030469983-98e550d6193c?w=800&h=1000&fit=crop",
+        "https://images.unsplash.com/photo-1583391733956-6c78276477e2?w=800&h=1000&fit=crop",
+        "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?w=800&h=1000&fit=crop"
+      ],
+      "price": 8999,
+      "originalPrice": 14999,
+      "fabric": "Pure Cotton",
+      "category": "Kasavu",
+      "description": "Authentic Kerala Kasavu saree with traditional golden zari border. Perfect for Onam, Christmas, and festive celebrations. Handwoven by skilled artisans from Kerala.",
+      "material": "100% Pure Cotton with Golden Zari",
+      "care": "Dry clean only. Store in a cool, dry place.",
+      "color": "Ivory White with Gold Border",
+      "length": "6.5 meters (includes blouse piece)",
+      "offer": "Christmas Special - 40% OFF",
+      "badge": "Handcrafted in Kerala",
+      "rating": 4.8,
+      "reviews": 142,
+      "inStock": true
+    },
+    {
+      "id": 2,
+      "name": "Kerala Silk Saree - Emerald Green with Gold",
+      "image": "https://images.unsplash.com/photo-1606995726991-01d19c4e5b7c?w=800&h=1000&fit=crop",
+      "images": [
+        "https://images.unsplash.com/photo-1606995726991-01d19c4e5b7c?w=800&h=1000&fit=crop",
+        "https://images.unsplash.com/photo-1583391733981-1612ba4a0e12?w=800&h=1000&fit=crop",
+        "https://images.unsplash.com/photo-1610030469995-9c2c0b29e60a?w=800&h=1000&fit=crop"
+      ],
+      "price": 12999,
+      "originalPrice": 21999,
+      "fabric": "Pure Silk",
+      "category": "Silk",
+      "description": "Exquisite Kerala silk saree in festive emerald green with intricate golden zari work. Ideal for weddings and Christmas celebrations.",
+      "material": "100% Pure Silk",
+      "care": "Dry clean only",
+      "color": "Forest Green with Gold",
+      "length": "6.5 meters with blouse",
+      "offer": "Festive Offer - 40% OFF",
+      "badge": "Handcrafted in Kerala",
+      "rating": 4.9,
+      "reviews": 89,
+      "inStock": true
+    },
+    {
+      "id": 3,
+      "name": "Handloom Cotton Saree - Ivory Elegance",
+      "image": "https://images.unsplash.com/photo-1583391733965-1f7a7b57e9c5?w=800&h=1000&fit=crop",
+      "images": [
+        "https://images.unsplash.com/photo-1583391733965-1f7a7b57e9c5?w=800&h=1000&fit=crop",
+        "https://images.unsplash.com/photo-1610030469983-98e550d6193c?w=800&h=1000&fit=crop",
+        "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?w=800&h=1000&fit=crop"
+      ],
+      "price": 4999,
+      "originalPrice": 7999,
+      "fabric": "Handloom Cotton",
+      "category": "Cotton",
+      "description": "Lightweight handloom cotton saree in ivory with delicate golden accents. Perfect for daily wear and festive occasions.",
+      "material": "100% Handloom Cotton",
+      "care": "Machine wash cold. Tumble dry low.",
+      "color": "Ivory with Gold Accents",
+      "length": "6 meters with blouse",
+      "offer": "35% OFF",
+      "badge": "Handcrafted in Kerala",
+      "rating": 4.7,
+      "reviews": 156,
+      "inStock": true
+    },
+    {
+      "id": 4,
+      "name": "Bridal Kerala Silk - Deep Red & Gold",
+      "image": "https://images.unsplash.com/photo-1610030469995-9c2c0b29e60a?w=800&h=1000&fit=crop",
+      "images": [
+        "https://images.unsplash.com/photo-1610030469995-9c2c0b29e60a?w=800&h=1000&fit=crop",
+        "https://images.unsplash.com/photo-1583391733956-6c78276477e2?w=800&h=1000&fit=crop",
+        "https://images.unsplash.com/photo-1606995726991-01d19c4e5b7c?w=800&h=1000&fit=crop"
+      ],
+      "price": 24999,
+      "originalPrice": 39999,
+      "fabric": "Pure Silk",
+      "category": "Wedding Sarees",
+      "description": "Luxurious bridal saree in deep red with heavy golden zari embroidery. A masterpiece from Kerala's finest weavers.",
+      "material": "100% Pure Silk with Zari Work",
+      "care": "Dry clean only. Handle with care.",
+      "color": "Deep Red with Gold",
+      "length": "6.5 meters with designer blouse",
+      "offer": "Wedding Special - 35% OFF",
+      "badge": "Handcrafted in Kerala",
+      "rating": 5.0,
+      "reviews": 67,
+      "inStock": true
+    },
+    {
+      "id": 5,
+      "name": "Kerala Kasavu with Temple Border",
+      "image": "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?w=800&h=1000&fit=crop",
+      "images": [
+        "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?w=800&h=1000&fit=crop",
+        "https://images.unsplash.com/photo-1610030469983-98e550d6193c?w=800&h=1000&fit=crop",
+        "https://images.unsplash.com/photo-1583391733965-1f7a7b57e9c5?w=800&h=1000&fit=crop"
+      ],
+      "price": 9999,
+      "originalPrice": 15999,
+      "fabric": "Pure Cotton",
+      "category": "Kasavu",
+      "description": "Traditional Kasavu with authentic Kerala temple border design. Perfect for Vishu, Onam, and Christmas festivities.",
+      "material": "Pure Cotton with Temple Zari",
+      "care": "Dry clean recommended",
+      "color": "Ivory with Gold Temple Border",
+      "length": "6.5 meters",
+      "offer": "40% OFF",
+      "badge": "Handcrafted in Kerala",
+      "rating": 4.8,
+      "reviews": 198,
+      "inStock": true
+    },
+    {
+      "id": 6,
+      "name": "Handloom Silk - Christmas Green",
+      "image": "https://images.unsplash.com/photo-1583391733981-1612ba4a0e12?w=800&h=1000&fit=crop",
+      "images": [
+        "https://images.unsplash.com/photo-1583391733981-1612ba4a0e12?w=800&h=1000&fit=crop",
+        "https://images.unsplash.com/photo-1606995726991-01d19c4e5b7c?w=800&h=1000&fit=crop",
+        "https://images.unsplash.com/photo-1610030469995-9c2c0b29e60a?w=800&h=1000&fit=crop"
+      ],
+      "price": 14999,
+      "originalPrice": 22999,
+      "fabric": "Handloom Silk",
+      "category": "Handloom Sarees",
+      "description": "Handwoven silk saree in festive green with golden peacock motifs. A Kerala tradition meets Christmas celebration.",
+      "material": "100% Handloom Silk",
+      "care": "Dry clean only",
+      "color": "Forest Green with Gold Motifs",
+      "length": "6.5 meters with blouse",
+      "offer": "Christmas Special - 35% OFF",
+      "badge": "Handcrafted in Kerala",
+      "rating": 4.9,
+      "reviews": 112,
+      "inStock": true
+    },
+    {
+      "id": 7,
+      "name": "Cotton Kasavu - Light & Breezy",
+      "image": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?w=800&h=1000&fit=crop",
+      "images": [
+        "https://images.unsplash.com/photo-1610030469983-98e550d6193c?w=800&h=1000&fit=crop",
+        "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?w=800&h=1000&fit=crop",
+        "https://images.unsplash.com/photo-1583391733965-1f7a7b57e9c5?w=800&h=1000&fit=crop"
+      ],
+      "price": 5999,
+      "originalPrice": 8999,
+      "fabric": "Cotton",
+      "category": "Cotton",
+      "description": "Comfortable cotton Kasavu for everyday wear and casual festive events. Lightweight and elegant.",
+      "material": "100% Cotton",
+      "care": "Hand wash or gentle machine wash",
+      "color": "Cream with Gold Border",
+      "length": "6 meters",
+      "offer": "30% OFF",
+      "badge": "Handcrafted in Kerala",
+      "rating": 4.6,
+      "reviews": 234,
+      "inStock": true
+    },
+    {
+      "id": 8,
+      "name": "Royal Silk Saree - Wine & Gold",
+      "image": "https://images.unsplash.com/photo-1583391733956-6c78276477e2?w=800&h=1000&fit=crop",
+      "images": [
+        "https://images.unsplash.com/photo-1583391733956-6c78276477e2?w=800&h=1000&fit=crop",
+        "https://images.unsplash.com/photo-1610030469995-9c2c0b29e60a?w=800&h=1000&fit=crop",
+        "https://images.unsplash.com/photo-1606995726991-01d19c4e5b7c?w=800&h=1000&fit=crop"
+      ],
+      "price": 18999,
+      "originalPrice": 29999,
+      "fabric": "Pure Silk",
+      "category": "Silk",
+      "description": "Regal silk saree in wine color with elaborate golden zari work. Perfect for weddings and grand celebrations.",
+      "material": "100% Pure Silk",
+      "care": "Dry clean only",
+      "color": "Wine Red with Gold",
+      "length": "6.5 meters with blouse",
+      "offer": "Festive Offer - 35% OFF",
+      "badge": "Handcrafted in Kerala",
+      "rating": 4.8,
+      "reviews": 87,
+      "inStock": true
+    },
+    {
+      "id": 9,
+      "name": "Kerala Bridal Special - Ivory & Gold",
+      "image": "https://images.unsplash.com/photo-1606995726991-01d19c4e5b7c?w=800&h=1000&fit=crop",
+      "images": [
+        "https://images.unsplash.com/photo-1606995726991-01d19c4e5b7c?w=800&h=1000&fit=crop",
+        "https://images.unsplash.com/photo-1610030469983-98e550d6193c?w=800&h=1000&fit=crop",
+        "https://images.unsplash.com/photo-1583391733956-6c78276477e2?w=800&h=1000&fit=crop"
+      ],
+      "price": 29999,
+      "originalPrice": 49999,
+      "fabric": "Pure Silk",
+      "category": "Wedding Sarees",
+      "description": "Premium bridal saree in classic ivory with heavy golden embellishment. A Kerala wedding masterpiece.",
+      "material": "Pure Silk with Kasavu Work",
+      "care": "Professional dry clean only",
+      "color": "Ivory with Heavy Gold",
+      "length": "6.5 meters with designer blouse",
+      "offer": "Bridal Collection - 40% OFF",
+      "badge": "Handcrafted in Kerala",
+      "rating": 5.0,
+      "reviews": 43,
+      "inStock": true
+    },
+    {
+      "id": 10,
+      "name": "Festive Handloom - Red & Green Combo",
+      "image": "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?w=800&h=1000&fit=crop",
+      "images": [
+        "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?w=800&h=1000&fit=crop",
+        "https://images.unsplash.com/photo-1583391733981-1612ba4a0e12?w=800&h=1000&fit=crop",
+        "https://images.unsplash.com/photo-1606995726991-01d19c4e5b7c?w=800&h=1000&fit=crop"
+      ],
+      "price": 11999,
+      "originalPrice": 17999,
+      "fabric": "Handloom Cotton-Silk",
+      "category": "Handloom Sarees",
+      "description": "Unique Christmas special handloom with traditional Kerala design in festive red and green combination.",
+      "material": "Cotton-Silk Blend",
+      "care": "Dry clean recommended",
+      "color": "Deep Red with Forest Green",
+      "length": "6.5 meters",
+      "offer": "Christmas Exclusive - 35% OFF",
+      "badge": "Handcrafted in Kerala",
+      "rating": 4.7,
+      "reviews": 91,
+      "inStock": true
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Kasavu",
+      "slug": "kasavu",
+      "description": "Traditional Kerala ivory sarees with golden border",
+      "image": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?w=500&h=500&fit=crop",
+      "count": 3
+    },
+    {
+      "id": 2,
+      "name": "Silk",
+      "slug": "silk",
+      "description": "Luxurious pure silk sarees from Kerala",
+      "image": "https://images.unsplash.com/photo-1606995726991-01d19c4e5b7c?w=500&h=500&fit=crop",
+      "count": 3
+    },
+    {
+      "id": 3,
+      "name": "Cotton",
+      "slug": "cotton",
+      "description": "Comfortable handloom cotton sarees",
+      "image": "https://images.unsplash.com/photo-1583391733965-1f7a7b57e9c5?w=500&h=500&fit=crop",
+      "count": 2
+    },
+    {
+      "id": 4,
+      "name": "Wedding Sarees",
+      "slug": "wedding-sarees",
+      "description": "Exquisite bridal collection",
+      "image": "https://images.unsplash.com/photo-1610030469995-9c2c0b29e60a?w=500&h=500&fit=crop",
+      "count": 2
+    },
+    {
+      "id": 5,
+      "name": "Handloom Sarees",
+      "slug": "handloom-sarees",
+      "description": "Traditional handwoven masterpieces",
+      "image": "https://images.unsplash.com/photo-1583391733981-1612ba4a0e12?w=500&h=500&fit=crop",
+      "count": 2
+    }
+  ]
+}
